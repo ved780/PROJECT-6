@@ -1,0 +1,32 @@
+Cybersecurity Internship - Task 6
+Interview Questions & Answers
+
+1. What makes a password strong?
+A strong password is long (at least 12 characters), uses a mix of uppercase and lowercase letters, numbers, and special symbols. It should avoid dictionary words, predictable sequences, and personal information.
+
+2. What are common password attacks?
+- Brute force attack: Tries all possible combinations until the password is cracked.
+- Dictionary attack: Uses a list of common words and variations.
+- Credential stuffing: Uses leaked username-password pairs to gain access.
+- Phishing: Tricks a user into revealing their password.
+
+3. Why is password length important?
+The longer the password, the more possible combinations an attacker has to try, which increases the time and computing power needed to crack it. Even a small increase in length can multiply the difficulty for brute force attacks.
+
+4. What is a dictionary attack?
+A dictionary attack is when attackers try passwords from a pre-made list of common words, phrases, and variations instead of trying every possible combination. It’s faster than brute force but only works if the password is predictable.
+
+5. What is multi-factor authentication?
+Multi-factor authentication (MFA) is an extra layer of security that requires more than just a password to log in. This could be a code sent to your phone, a fingerprint scan, or a hardware security key.
+
+6. How do password managers help?
+Password managers generate strong, unique passwords for every account and store them securely. This way, you only need to remember one master password, and you avoid reusing weak or similar passwords.
+
+7. What are passphrases?
+A passphrase is a longer password made up of multiple random words, like "coffee-train-moon-lamp". They’re easy to remember but hard for attackers to guess if the words are unrelated and chosen randomly.
+
+8. What are common mistakes in password creation?
+- Using short or simple passwords
+- Including personal details like birthdays or names
+- Reusing the same password on multiple accounts
+- Using common patterns like "123456" or "password"
